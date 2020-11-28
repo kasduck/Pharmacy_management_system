@@ -1,0 +1,2 @@
+Actal;15;2;30;1;30
+Dual Cotexin;high;two times;30;120;3600
